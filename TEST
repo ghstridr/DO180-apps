@@ -8,3 +8,12 @@ OCP4
 172.25.250.9    workstation.lab.example.com workstation
 172.25.254.254  classroom.example.com classroom
 172.25.250.254  bastion.lab.example.com bastion
+127.0.0.1 localhost.localdomain localhost
+172.25.254.254 classroom.example.com classroom
+172.25.254.254 content.example.com content
+172.25.254.254 materials.example.com materials
+### rht-vm-hosts file listing the entries to be appended to /etc/hosts
+
+172.25.250.9    workstation.lab.example.com workstation
+172.25.254.254  classroom.example.com classroom
+172.25.250.254  bastion.lab.example.com bastion
